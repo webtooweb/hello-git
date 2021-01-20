@@ -41,6 +41,7 @@ When you've made your commit, you will be ready to submit your project.
 2. Next, use the following commands:
 
 `git branch -m main`
+
 `git push -u origin main`
 
 3. If this is your first time submitting anything from your machine, you will need to sign into your GitHub account. 
