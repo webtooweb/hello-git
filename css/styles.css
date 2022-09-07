@@ -1,10 +1,13 @@
 body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	padding: 3rem;
 }
 
 div.container {
 	margin: 0 auto;
-	width: 600px;
+	max-width: 600px;
 	border: 1px solid #656d78;
 	border-radius: 15px;
 	box-shadow: 0 0 8px 0 #434a54;
@@ -15,7 +18,7 @@ h1 {
 	font-size: 4rem;
 	color: white;
 	text-align: center;
-	background-color: red;
+	background-color: rgb(195, 27, 27);
 	padding: 0.25rem;
 	border-radius: 15px 15px 0 0;
 }
